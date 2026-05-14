@@ -7,3 +7,4 @@ const reverseArray = (arr) => {
 };
 
 console.log(reverseArray([1, 2, 3, 4, 5]));
+// just to see
